@@ -1,0 +1,7 @@
+
+discord.py[voice]
+yt-dlp
+numpy
+scipy
+h5py
+imageio-ffmpeg
